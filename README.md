@@ -1,3 +1,5 @@
 # Pure SPA in Jekyll
 
-	Just For WEB
+Just a WebSite For Pure SPA.
+
+![Forty Theme](assets/images/screenshots.jpg "Forty Theme")
