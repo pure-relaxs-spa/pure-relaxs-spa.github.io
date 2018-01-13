@@ -2,4 +2,4 @@
 
 Just a WebSite For Pure SPA.
 
-![Forty Theme](assets/images/screenshots.jpg "Forty Theme")
+![Pure SPA](assets/images/screenshots.jpg "Pure SPA")
