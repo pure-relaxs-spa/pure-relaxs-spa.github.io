@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 服務地點
+title: 服務時間 & 地點
 description: Service Location
 image: assets/images/location.jpg
 ---
@@ -17,3 +17,16 @@ Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc l
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
 Pellentesque aliquam maximus risus, vel sed vehicula.
 
+
+<!-- Main -->
+<div class="content">
+    <p style="text-transform: uppercase;"></p>
+         <ul class="actions">
+            <center>
+                <li><a href="{{site.basurl}}/" class="button">返回首頁</a></li>
+                <li><a href="{{site.basurl}}/2018/01/08/precautions" class="button">注意事項</a></li>
+                <li><a href="{{site.basurl}}/2018/01/09/service" class="button">服務方案</a></li>
+                <li><a href="{{site.basurl}}/2018/01/03/contact" class="button">立即預約</a></li>
+             </center>
+        </ul>
+</div>
