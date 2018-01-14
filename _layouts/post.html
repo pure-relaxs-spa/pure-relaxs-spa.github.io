@@ -6,30 +6,26 @@
 -->
 <html>
 
-{% include head.html %}
+{% include head.html %} {% include header.html %}
 
 <body>
+	<!-- Main -->
+	<div id="main" class="alt">
 
-    {% include header.html %} 
-    
-    
-<!-- Main -->
-<div id="main" class="alt">
+		<!-- One -->
+		<section id="one">
+			<div class="inner">
+				<header class="major">
+					<h1>{{ page.title }}</h1>
+				</header>
+				<!--	{% if page.image %} <center><span class="image"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" width="700" height="350" /></span></center> {% endif %} -->
+				<p>{{ content }}</p>
+			</div>
+		</section>
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>{{ page.title }}</h1>
-		</header>
-	 <!--	{% if page.image %} <center><span class="image"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" width="700" height="350" /></span></center> {% endif %} -->
-		<p>{{ content }}</p>
 	</div>
-</section>
 
-</div>
-
-    {% include footer.html %}
+	{% include footer.html %}
 
 </body>
 

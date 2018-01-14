@@ -6,6 +6,11 @@ image: assets/images/serviceproduct.jpg
 ---
  <!-- <center><img src="{{ site.baseurl }}/{{ page.image }}" width="800" height="400"> </center> -->
 
+
+<div class="box">
+	<h2><font color="#FF8888">服務地點於飯店、旅館時可額外折抵 500 元場地費 ( 可與其他優惠同時使用 )</font></h2>
+</div>
+
 <div class="table">
 	<table>
 		<thead>
@@ -13,21 +18,21 @@ image: assets/images/serviceproduct.jpg
 				<th><center>仕男課程</center></th>
 				<th><center>服務內容</center></th>
 				<th><center>服務時間</center></th>
-                <th><center>收費價格</center></th>
+                <th><center>收費價格 ( NTD )</center></th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
-				<td><center>活力重現 (A)</center></td>
+				<td><center>活力重現 ( A )</center></td>
 				<td><center>頭,肩,頸,手,腿,背指壓油壓</center></td>
-				<td><center>120分鐘</center></td>
-                <td><center>2000元</center></td>
+				<td><center>120 分鐘</center></td>
+                <td><center>2000 元</center></td>
 			</tr>
 			<tr>
-				<td><center>深層舒緩 (B) </center></td>
-				<td><center>頭,肩,頸,手,腿,背指壓油壓 + 泰式體推</center></td>
-				<td><center>140分鐘</center></td>
-                <td><center>2300元</center></td>
+				<td><center>深層舒緩 ( B ) </center></td>
+				<td><center>頭,肩,頸,手,腿,背指壓油壓 + 泰式 BtB</center></td>
+				<td><center>140 分鐘</center></td>
+                <td><center>2300 元</center></td>
 			</tr>
 		</tbody>
 	</table>
@@ -42,21 +47,21 @@ image: assets/images/serviceproduct.jpg
 				<th><center>仕女課程</center></th>
 				<th><center>服務內容</center></th>
 				<th><center>服務時間</center></th>
-                <th><center>收費價格</center></th>
+                <th><center>收費價格 ( NTD )</center></th>
 			</tr>
 		</thead>
 		<tbody>
             <tr>
-				<td><center>曲線香氛 (C)</center></td>
+				<td><center>曲線香氛 ( C )</center></td>
 				<td><center>頭,肩,頸,手,腿,背指壓油壓</center></td>
-				<td><center>120分鐘</center></td>
-                <td><center>2000元</center></td>
+				<td><center>120 分鐘</center></td>
+                <td><center>2000 元</center></td>
 			</tr>
             <tr>
-				<td><center>魅力重現 (D)</center></td>
-				<td><center>全身指壓,油壓 + 美胸按摩 + 泰式體推</center></td>
-				<td><center>180分鐘</center></td>
-                <td><center>3000元</center></td>
+				<td><center>魅力重現 ( D )</center></td>
+				<td><center>全身指壓,油壓 + 美胸按摩 + 泰式 BtB</center></td>
+				<td><center>160 分鐘</center></td>
+                <td><center>2700 元</center></td>
 			</tr>
 		</tbody>
 	</table>
@@ -64,28 +69,28 @@ image: assets/images/serviceproduct.jpg
 
 <hr color="white" size="4" color="yellow">
 
-<div class="table-wrapper col-lg-12">
+<div class="table-wrapper">
 	<table>
 		<thead>
 			<tr bgcolor="#545454">
 				<th><center>優惠方案</center></th>
                 <th><center>優惠內容</center></th>
 				<th><center>折扣條件</center></th>
-                <th><center>折扣價格</center></th>
+                <th><center>折扣價格 ( NTD )</center></th>
 			</tr>
 		</thead>
 		<tbody>
             <tr>
-				<td><center>學生方案 (ST)</center></td>
-                <td><center>延長服務15分鐘</center></td>
-				<td><center>結帳時出示學生證 (需30歲以下)</center></td>
-                <td><center>-300元</center></td>
+				<td><center>學生方案 ( ST )</center></td>
+                <td><center>延長服務 15 分鐘</center></td>
+				<td><center>服務前出示學生證 ( 限 30 歲以下 )</center></td>
+                <td><center>-300 元</center></td>
 			</tr>
             <tr>
-				<td><center>軍警方案 (SP)</center></td>
-                <td><center>延長服務15分鐘</center></td>
-				<td><center>結帳時出示軍警證</center></td>
-                <td><center>-200元</center></td>
+				<td><center>軍警方案 ( SP )</center></td>
+                <td><center>延長服務 15 分鐘</center></td>
+				<td><center>服務前出示軍警證</center></td>
+                <td><center>-200 元</center></td>
 			</tr>
 		</tbody>
 	</table>
