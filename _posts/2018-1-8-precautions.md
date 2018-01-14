@@ -9,7 +9,7 @@ image: assets/images/Precautions.jpg
 <div style="font-family:Microsoft JhengHei;"> 
 
 <div class="box">
-	<h2><font color="#FF8888">預約完成後，臨時有事卻未提前取消者，次數超過 2 次將永遠列入黑名單</font></h2>
+	<h3><font color="#FF8888">預約完成後，臨時有事卻未提前取消者，次數超過 2 次將永遠列入黑名單</font></h3>
 </div>
 
 <h3>「 <font color="#00DDAA">消費前 </font>」 請閱讀以下內容，減少消費糾紛</h3>

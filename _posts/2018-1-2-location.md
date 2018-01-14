@@ -6,16 +6,30 @@ image: assets/images/location.jpg
 ---
 
 <div class="box">
-	<h3><font color="#00DD77">外出服務地點於舊台南市不需額外車馬費，偏遠地區每 30 分鐘車程加收 500 元</font></h3>
+	<h4><font color="#FFDDAA">週一 至 週四 晚上08:00 ~ 凌晨01:00，23:00前接受預約</font></h4>
+    <h4><font color="#FFDDAA">週六 至 週日 早上11:00 ~ 晚上24:00，22:00前接受預約</font></h4>
 </div>
 
-<p><span class="image left"><img src="{{site.basurl}}/assets/images/location1.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
+<div class="box">
+	<h4><font color="#FFDD55">外出服務地點於舊台南市區內登記立案之飯店旅館，不需額外車馬費</font></h4>
+    <h4><font color="#FFDD55">私人住家加收 500 元，偏遠地區每 30 分鐘車程加收 500 元</font></h4>
+</div>
 
-<br />
+<h3>本工作室推薦地點</h3>
 
-<p><span class="image right"><img src="{{site.basurl}}/assets/images/location1.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-
-<br /><br />
+<span class="image fit"><img src="assets/images/pic03.jpg" alt="" /></span>
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="6u"><span class="image fit"><img src="{{site.basurl}}/assets/images/location1.jpg" width="400" height="400" alt="" /></span><center><b>台灣鐵道飯店</b></center></div>
+		<div class="6u$"><span class="image fit"><img src="{{site.basurl}}/assets/images/location2.jpg" width="400" height="400"  alt="" /><center><b><br />國妃鷹堡健康館</b></center></span></div>
+		<!-- Break -->
+		<div class="6u"><span class="image fit"><img src="{{site.basurl}}/assets/images/location1.jpg" width="400" height="400" alt="" /></span><center><b>台灣鐵道飯店</b></center></div>
+		<div class="6u$"><span class="image fit"><img src="{{site.basurl}}/assets/images/location2.jpg" width="400" height="400"  alt="" /><center><b><br />國妃鷹堡健康館</b></center></span></div>
+		<!-- Break -->
+		<div class="6u"><span class="image fit"><img src="{{site.basurl}}/assets/images/location1.jpg" width="400" height="400" alt="" /></span><center><b>御宿台南館</b></center></div>
+		<div class="6u$"><span class="image fit"><img src="{{site.basurl}}/assets/images/location2.jpg" width="400" height="400"  alt="" /><center><b><br />國妃鷹堡健康館</b></center></span></div>
+	</div>
+</div>
 
 <!-- Main -->
 <div class="content">
