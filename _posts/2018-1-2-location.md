@@ -6,8 +6,8 @@ image: assets/images/location.jpg
 ---
 
 <div class="box">
-	<h4><font color="#FFDDAA">週一 至 週四 晚上08:00 ~ 凌晨01:00，23:00前接受預約</font></h4>
-    <h4><font color="#FFDDAA">週六 至 週日 早上11:00 ~ 晚上24:00，22:00前接受預約</font></h4>
+	<h4><font color="#FFDDAA">週一 至 週四 晚上20:00 ~ 凌晨01:00，晚上23:00前接受預約</font></h4>
+    <h4><font color="#FFDDAA">週六 至 週日 早上11:00 ~ 晚上24:00，晚上22:00前接受預約</font></h4>
 </div>
 
 <div class="box">
