@@ -5,7 +5,7 @@ description: Service Product
 image: assets/images/serviceproduct.jpg
 ---
  <!-- <center><img src="{{ site.baseurl }}/{{ page.image }}" width="800" height="400"> </center> -->
-
+<span style="font-family:Microsoft JhengHei"> 服務地點於飯店</span>
 <div class="box">
 	<h2><font color="#FF8888">服務地點於飯店、旅館時可額外折抵 500 元場地費 ( 可與其他優惠同時使用 )</font></h2>
 </div>
