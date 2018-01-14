@@ -5,6 +5,9 @@ description: Precautions
 image: assets/images/Precautions.jpg
 ---
  <!-- <center><img src="{{ site.baseurl }}/{{ page.image }}" width="800" height="400"> </center> -->
+
+<div style="font-family:Microsoft JhengHei;"> 
+
 <div class="box">
 	<h2><font color="#FF8888">預約完成後，臨時有事卻未提前取消者，次數超過 2 次將永遠列入黑名單</font></h2>
 </div>
@@ -32,7 +35,7 @@ image: assets/images/Precautions.jpg
         <li>方案指壓 （ 60 分鐘 )</li>
         <li>方案油壓 （ 60 分鐘 ) -- A、C 方案 ( 累積 120 分鐘 )</li>
         <li>美胸按摩 （ 20 分鐘 )</li>
-        <li>泰式 BtB &nbsp;&nbsp;&nbsp; ( 20 分鐘 ) -- B、D 方案 ( 累積 140 分鐘、 160 分鐘)</li>
+        <li>泰式 BtB &nbsp; ( 20 分鐘 ) -- B、D 方案 ( 累積 140 分鐘、 160 分鐘)</li>
         <li>沐浴清潔 （ 10 分鐘 )</li>
     </ol>
 </div>
@@ -48,4 +51,5 @@ image: assets/images/Precautions.jpg
                 <li><a href="{{site.basurl}}/2018/01/03/contact" class="button">立即預約</a></li>
              </center>
         </ul>
+</div>
 </div>

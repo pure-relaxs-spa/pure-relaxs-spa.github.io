@@ -6,9 +6,10 @@
 -->
 <html>
 
-    {% include head.html %}
+{% include head.html %}
 
-    <body>
+<body>
+    <div style="font-family:Microsoft JhengHei;">
 
         {% include header.html %}
 
@@ -30,10 +31,8 @@
             </div>
         </section>
 
-    {{ content }}
-
-    {% include footer.html %}
-
+        {{ content }} {% include footer.html %}
+    </div>
 </body>
 
 </html>
