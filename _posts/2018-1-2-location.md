@@ -15,7 +15,7 @@ image: assets/images/location.jpg
     <h4><font color="#FFDD55">偏遠地區每 30 分鐘車程加收 500 元</font></h4>
 </div>
 
-<h3>本工作室推薦地點 ( 點擊圖片查看地圖 )</h3>
+<h3>服務地點參考 ( 點擊可查看地圖 )</h3>
 
 <div class="box alt">
 	<div class="row 50% uniform">

@@ -16,6 +16,7 @@ image: assets/images/Precautions.jpg
 <div class="box">
     <ul>
         <li>本工作室為性別友善商店，但不接受年齡未滿 18 歲者之預約</li>
+        <li>本工作室因考量服務過程中衛生安全問題，皮膚狀況不佳的客人請勿預約</li>
 		<li>本工作室因考量服務品質，<b><font color="#EEEE00">上班單日至多服務 3 至 5 位客人</font></b>，請見諒</li>
 		<li>承上點，考量師傅前往服務地點之行程安排，請至少於 1 小時前進行預約</li>
         <li>承上點，本工作室會根據服務地點額外酌收車馬費，請至 <a href="{{site.basurl}}/2018/01/02/location"><font color="#FF0088">服務地點</font></a> 頁面進行確認</li>
@@ -41,13 +42,14 @@ image: assets/images/Precautions.jpg
 </div>
 
 <!-- Main -->
-<div class="acitons">
+<div class="content">
     <p style="text-transform: uppercase;"></p>
          <ul class="actions">
+            <center>
                 <li><a href="{{site.basurl}}/" class="button">返回首頁</a></li>
                 <li><a href="{{site.basurl}}/2018/01/09/service" class="button">服務方案</a></li>
                 <li><a href="{{site.basurl}}/2018/01/02/location" class="button">服務地點</a></li>
                 <li><a href="{{site.basurl}}/2018/01/03/contact" class="button">立即預約</a></li>
+             </center>
         </ul>
-</div>
 </div>
