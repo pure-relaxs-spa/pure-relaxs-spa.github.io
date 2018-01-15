@@ -5,8 +5,8 @@ description: Contact us
 image: assets/images/contact.jpg
 ---
 
-<center><a href="http://line.me/ti/p/rp1aatBpg_"><img src="{{site.basurl}}/assets/images/line.jpg" alt="" width="800" height="300"/></a>
-<img src="{{site.basurl}}/assets/images/line-code.jpg" alt="" width="300" height="300"/>
+<center><a href="http://line.me/ti/p/rp1aatBpg_"><img src="{{site.basurl}}/assets/images/line.jpg" alt=""/></a>
+<img src="{{site.basurl}}/assets/images/line-code.jpg" alt=""/>
 </center>
 
 <!-- Main -->

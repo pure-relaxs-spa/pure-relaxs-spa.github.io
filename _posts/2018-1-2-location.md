@@ -11,8 +11,8 @@ image: assets/images/location.jpg
 </div>
 
 <div class="box">
-	<h4><font color="#FFDD55">外出服務地點於舊台南市區內登記立案之飯店旅館，不需額外車馬費</font></h4>
-    <h4><font color="#FFDD55">私人住家加收 500 元，偏遠地區每 30 分鐘車程加收 500 元</font></h4>
+	<h4><font color="#FFDD55">外出服務地點於舊台南市區內住家及政府登記立案之飯店旅館，不需額外車馬費</font></h4>
+    <h4><font color="#FFDD55">偏遠地區每 30 分鐘車程加收 500 元</font></h4>
 </div>
 
 <h3>本工作室推薦地點 ( 點擊圖片查看地圖 )</h3>
