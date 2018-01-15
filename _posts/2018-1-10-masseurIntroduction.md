@@ -5,9 +5,20 @@ description: Ｍesseur Introduction
 image: assets/images/masseur.jpg
 ---
 
+<h4>生活照片</h4>
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic08.jpg" alt=""/></span></div>
+		<div class="4u"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic09.jpg" alt=""/></span></div>
+		<div class="4u$"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic10.jpg" alt=""/></span></div>
+		<!-- Break -->
+		<div class="4u"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic10.jpg" alt=""/></span></div>
+		<div class="4u"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic08.jpg" alt=""/></span></div>
+		<div class="4u$"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic09.jpg" alt=""/></span></div>
 
+	</div>
+</div>
 <!-- Main -->
 <div class="content">
     <p style="text-transform: uppercase;"></p>
