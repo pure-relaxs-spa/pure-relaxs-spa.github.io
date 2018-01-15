@@ -5,7 +5,9 @@ description: Contact us
 image: assets/images/contact.jpg
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
+<center><a href="http://line.me/ti/p/rp1aatBpg_"><img src="{{site.basurl}}/assets/images/line.jpg" alt="" width="800" height="300"/></a>
+<img src="{{site.basurl}}/assets/images/line-code.jpg" alt="" width="300" height="300"/>
+</center>
 
 <!-- Main -->
 <div class="content">
