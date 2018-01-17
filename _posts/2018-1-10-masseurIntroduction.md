@@ -5,17 +5,28 @@ description: Ｍesseur Introduction
 image: assets/images/masseur.jpg
 ---
 
-<h4>生活照片</h4>
+<h4>基本資料</h4>
+
+    姓名：Ｒex
+    生日：07 / 14 
+    血型：AB 型
+    職業：學生
+    特質：斯文細心，親切健談
+    
+    關於Ｐure SPA：
+
+
+<h4>照片</h4>
 
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic08.jpg" alt=""/></span></div>
-		<div class="4u"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic09.jpg" alt=""/></span></div>
-		<div class="4u$"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic10.jpg" alt=""/></span></div>
+		<div class="4u"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic01.jpg" alt=""/></span></div>
+		<div class="4u"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic02.jpg" alt=""/></span></div>
+		<div class="4u$"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic03.jpg" alt=""/></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic10.jpg" alt=""/></span></div>
-		<div class="4u"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic08.jpg" alt=""/></span></div>
-		<div class="4u$"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic09.jpg" alt=""/></span></div>
+		<div class="4u"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic04.jpg" alt=""/></span></div>
+		<div class="4u"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic05.jpg" alt=""/></span></div>
+		<div class="4u$"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic06.jpg" alt=""/></span></div>
 
 	</div>
 </div>
