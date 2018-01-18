@@ -4,12 +4,19 @@ title: 師傅介紹
 description: Ｍesseur Introduction
 image: assets/images/masseur.jpg
 ---
+<head>
+<style type="text/css">
+body {
+-moz-user-select : none;
+-webkit-user-select: none;
+}
+</style>
+</head>
 
 <h4>基本資料</h4>
 
     姓名：Rex
     生日：07 / 14 
-    星座：巨蟹
     血型：AB 型
     身高：175 ~ 176 公分
     體重：60 ~ 62 公斤
@@ -23,14 +30,9 @@ image: assets/images/masseur.jpg
 
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic01.jpg" alt=""/></span></div>
-		<div class="4u"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic02.jpg" alt=""/></span></div>
-		<div class="4u$"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic03.jpg" alt=""/></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic04.jpg" alt=""/></span></div>
-		<div class="4u"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic05.jpg" alt=""/></span></div>
-		<div class="4u$"><span class="image fit"><img src="{{site.basurl}}/assets/images/pic06.jpg" alt=""/></span></div>
-
+    	<div class="2u"><img src="{{site.basurl}}/assets/images/Rex1.jpg" alt=""/></div>
+		<div class="2u"><img src="{{site.basurl}}/assets/images/Rex3.jpg" alt=""/></div>
+        <div class="2u$"><img src="{{site.basurl}}/assets/images/Rex2.jpg" alt=""/></div>
 	</div>
 </div>
 <!-- Main -->
@@ -48,3 +50,31 @@ image: assets/images/masseur.jpg
 </div>
 
 
+<script type="text/javascript">
+function iEsc(){ return false; }
+function iRec(){ return true; }
+function DisableKeys() {
+if(event.ctrlKey || event.shiftKey || event.altKey) {
+window.event.returnValue=false;
+iEsc();}
+}
+document.ondragstart=iEsc;
+document.onkeydown=DisableKeys;
+document.oncontextmenu=iEsc;
+if (typeof document.onselectstart !="undefined")
+document.onselectstart=iEsc;
+else{
+document.onmousedown=iEsc;
+document.onmouseup=iRec;
+}
+function DisableRightClick(qsyzDOTnet){
+if (window.Event){
+if (qsyzDOTnet.which == 2 || qsyzDOTnet.which == 3)
+iEsc();}
+else
+if (event.button == 2 || event.button == 3){
+event.cancelBubble = true
+event.returnValue = false;
+iEsc();}
+}
+</script>
