@@ -23,17 +23,19 @@ body {
     職業：學生
     特質：居家型男孩，斯文細心，親切健談
 
-    沒有出色的體態，但有近乎苛求的力道. 
-    只希望能提供最好的按摩體驗給每一位客人!
+    沒有出色的體態，但有近乎苛求的力道.
+    只希望能提供最好的按摩體驗給每一位客人.
+    工作室所使用的是專業芳療等級的功能精油，可依客人需求進行調整
 
 
-<h4>生活照片</h4>
+<h4>相關照片</h4>
 
 <div class="box alt">
 	<div class="row 50% uniform">
     	<!--<div class="2u"><img src="{{site.basurl}}/assets/images/Rex1.jpg" alt=""/></div>-->
 		<div class="2u"><img src="{{site.basurl}}/assets/images/Rex3.jpg" alt=""/></div>
-        <div class="2u$"><img src="{{site.basurl}}/assets/images/Rex2.jpg" alt=""/></div>
+        <div class="2u"><img src="{{site.basurl}}/assets/images/Rex2.jpg" alt=""/></div>
+        <div class="3u$"><img src="{{site.basurl}}/assets/images/Rex4.jpg" alt=""/></div>
 	</div>
 </div>
 
