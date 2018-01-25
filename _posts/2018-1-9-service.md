@@ -9,7 +9,11 @@ image: assets/images/serviceproduct.jpg
 <div style="font-family:Microsoft JhengHei;"> 
 
 <div class="box">
-	<h3><font color="#FF8888">服務地點於飯店旅館時，所有課程可額外折抵 500 元場地費 ( 可與其他優惠同時使用 )</font></h3>
+    <ul>
+        <li>
+            <h3><font color="#FFFF77">新開幕優惠活動進行中，活動期間 2018/02/01 ~ 2018/02/28</font></h3>
+        </li>
+    </ul>
 </div>
 
 <div class="table">
@@ -19,7 +23,7 @@ image: assets/images/serviceproduct.jpg
 				<th><center>仕男課程</center></th>
 				<th><center>服務內容</center></th>
 				<th><center>服務時間</center></th>
-                <th><center>收費價格 ( NTD )</center></th>
+                <th><center>優惠價格 ( NTD )</center></th>
 			</tr>
 		</thead>
 		<tbody>
@@ -27,13 +31,13 @@ image: assets/images/serviceproduct.jpg
 				<td><center>活力重現 ( A )</center></td>
 				<td><center>頭,肩,頸,手,腿,背指壓油壓</center></td>
 				<td><center>120 分鐘</center></td>
-                <td><center>2000 元</center></td>
+                <td><center><strike><font color="red">2000 元</font></strike> 1700 元</center></td>
 			</tr>
 			<tr>
 				<td><center>深層舒緩 ( B ) </center></td>
 				<td><center>頭,肩,頸,手,腿,背指壓油壓 + 泰式 BtB</center></td>
 				<td><center>140 分鐘</center></td>
-                <td><center>2400 元</center></td>
+                <td><center><strike><font color="red">2400 元</font></strike> 2100 元</center></td>
 			</tr>
 		</tbody>
 	</table>
@@ -48,7 +52,7 @@ image: assets/images/serviceproduct.jpg
 				<th><center>仕女課程</center></th>
 				<th><center>服務內容</center></th>
 				<th><center>服務時間</center></th>
-                <th><center>收費價格 ( NTD )</center></th>
+                <th><center>優惠價格 ( NTD )</center></th>
 			</tr>
 		</thead>
 		<tbody>
@@ -56,13 +60,13 @@ image: assets/images/serviceproduct.jpg
 				<td><center>曲線香氛 ( C )</center></td>
 				<td><center>頭,肩,頸,手,腿,背指壓油壓</center></td>
 				<td><center>120 分鐘</center></td>
-                <td><center>2000 元</center></td>
+                <td><center><strike><font color="red">2000 元</font></strike> 1700 元</center></td>
 			</tr>
             <tr>
 				<td><center>魅力重現 ( D )</center></td>
 				<td><center>全身指壓,油壓 + 美胸按摩 + 泰式 BtB</center></td>
 				<td><center>160 分鐘</center></td>
-                <td><center>2700 元</center></td>
+                <td><center><strike><font color="red">2700 元</font></strike> 2400 元</center></td>
 			</tr>
 		</tbody>
 	</table>
@@ -91,6 +95,12 @@ image: assets/images/serviceproduct.jpg
 				<td><center>軍警方案 ( SP )</center></td>
                 <td><center>延長服務 15 分鐘</center></td>
 				<td><center>服務前出示軍警證</center></td>
+                <td><center>-200 元</center></td>
+			</tr>
+			<tr>
+				<td><center>成家方案 ( FA )</center></td>
+                <td><center>延長服務 15 分鐘</center></td>
+				<td><center>服務前出示身份證 ( 已婚 )</center></td>
                 <td><center>-200 元</center></td>
 			</tr>
 		</tbody>
