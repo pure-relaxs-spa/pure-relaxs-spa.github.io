@@ -11,7 +11,7 @@ image: assets/images/serviceproduct.jpg
 <div class="box">
     <ul>
         <li>
-            <h3><font color="#FFFF77">新開幕優惠活動籌備中，尚未開幕，敬請期待</font></h3>
+            <h3><font color="#FFFF77">新開幕優惠活動籌備中，預計於3月5日開幕，敬請期待</font></h3>
         </li>
     </ul>
 </div>
@@ -87,20 +87,14 @@ image: assets/images/serviceproduct.jpg
 		<tbody>
             <tr>
 				<td><center>學生方案 ( ST )</center></td>
-                <td><center>延長服務 15 分鐘</center></td>
+                <td><center>折價優惠</center></td>
 				<td><center>服務前出示學生證 ( 限 30 歲以下 )</center></td>
                 <td><center>-200 元</center></td>
 			</tr>
             <tr>
 				<td><center>軍警方案 ( SP )</center></td>
-                <td><center>延長服務 15 分鐘</center></td>
+                <td><center>折價優惠</center></td>
 				<td><center>服務前出示軍警證</center></td>
-                <td><center>-200 元</center></td>
-			</tr>
-			<tr>
-				<td><center>成家方案 ( FA )</center></td>
-                <td><center>延長服務 15 分鐘</center></td>
-				<td><center>服務前出示身份證 ( 已婚 )</center></td>
                 <td><center>-200 元</center></td>
 			</tr>
 		</tbody>
