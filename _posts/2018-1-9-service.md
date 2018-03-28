@@ -11,7 +11,7 @@ image: assets/images/serviceproduct.jpg
 <div class="box">
     <ul>
         <li>
-            <h3><font color="#FFFF77">新開幕優惠活動進行中, 全面折價300元</font></h3>
+            <h3><font color="#FFFF77">新開幕優惠活動進行中, 3月底前全面折價300元</font></h3>
         </li>
     </ul>
 </div>
