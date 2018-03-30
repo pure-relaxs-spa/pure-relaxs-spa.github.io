@@ -32,8 +32,6 @@ body {
 <div class="box alt">
 	<div class="row 50% uniform">
     	<!--<div class="2u"><img src="{{site.basurl}}/assets/images/Rex1.jpg" alt=""/></div>-->
-		<div class="2u"><img src="{{site.basurl}}/assets/images/Rex3.jpg" alt=""/></div>
-        <div class="2u"><img src="{{site.basurl}}/assets/images/Rex2.jpg" alt=""/></div>
         <div class="3u"><img src="{{site.basurl}}/assets/images/Rex4.JPG" alt=""/></div>
         <div class="3u$"><img src="{{site.basurl}}/assets/images/Rex5.JPG" alt=""/></div>
 	</div>
