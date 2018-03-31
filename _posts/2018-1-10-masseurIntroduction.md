@@ -2,7 +2,7 @@
 layout: post
 title: 師傅介紹
 description: Ｍesseur Introduction
-image:
+image: assets/images/Rex5.jpg
 ---
 <head>
 <style type="text/css">
