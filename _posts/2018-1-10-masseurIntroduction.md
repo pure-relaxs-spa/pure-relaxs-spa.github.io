@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 師傅介紹
+title: 環境介紹
 description: Ｍesseur Introduction
 image: assets/images/Rex5.jpg
 ---
@@ -21,7 +21,7 @@ body {
     身高：175 ~ 176 公分
     體重：60 ~ 62 公斤
     職業：學生
-    特質：鄰居男孩，斯文細心，親切健談
+    特質：斯文細心，親切健談
 
     希望能提供最好的按摩體驗給每一位客人.
     工作室所使用的是專業芳療等級的功能精油，可依客人需求進行調整
