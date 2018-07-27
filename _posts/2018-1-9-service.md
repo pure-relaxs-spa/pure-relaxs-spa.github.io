@@ -52,7 +52,7 @@ image: assets/images/serviceproduct.jpg
 				<th><center>仕女課程</center></th>
 				<th><center>服務內容</center></th>
 				<th><center>服務時間</center></th>
-                <th><center>服價格 ( NTD )</center></th>
+                <th><center>服務價格 ( NTD )</center></th>
 			</tr>
 		</thead>
 		<tbody>
