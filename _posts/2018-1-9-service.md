@@ -9,11 +9,7 @@ image: assets/images/serviceproduct.jpg
 <div style="font-family:Microsoft JhengHei;"> 
 
 <div class="box">
-    <ul>
-        <li>
-            <h3><font color="#FFFF77">8月底前，穿著背心進行消費 折價 100 元 (可與其他優惠方案同時進行, 外出服務不適用)</font></h3>
-        </li>
-    </ul>
+
 </div>
 
 <div class="table">
@@ -31,13 +27,13 @@ image: assets/images/serviceproduct.jpg
 				<td><center>活力重現 ( A )</center></td>
 				<td><center>頭,肩,頸,手,腿,背指壓油壓</center></td>
 				<td><center>120 分鐘</center></td>
-                <td><center><font color="#77DDFF">2000 元</font></center></td>
+                <td><center><font color="#77DDFF">1900 元</font></center></td>
 			</tr>
 			<tr>
 				<td><center>深層舒緩 ( B ) </center></td>
 				<td><center>頭,肩,頸,手,腿,背指壓 + 泰式能量油壓</center></td>
 				<td><center>140 分鐘</center></td>
-                <td><center><font color="#77DDFF">2400 元</font></center></td>
+                <td><center><font color="#77DDFF">2300 元</font></center></td>
 			</tr>
 		</tbody>
 	</table>
@@ -66,7 +62,7 @@ image: assets/images/serviceproduct.jpg
 				<td><center>魅力重現 ( D )</center></td>
 				<td><center>全身指壓 + 美胸按摩 + 泰式能量油壓</center></td>
 				<td><center>160 分鐘</center></td>
-                <td><center><font color="#77DDFF">2700 元</font></center></td>
+                <td><center><font color="#77DDFF">2500 元</font></center></td>
 			</tr>
 		</tbody>
 	</table>
