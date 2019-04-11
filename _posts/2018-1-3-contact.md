@@ -4,7 +4,7 @@ title: 聯絡方式
 description: Contact us
 image: assets/images/contact.jpg
 ---
-<h4>目前僅提供線上預約，點擊或掃描下方條碼進行諮詢<br />由於單日至多服務 5 位客人，回覆訊息速度較慢時，請多多包涵！</h4>
+<h4>目前僅提供線上預約，點擊或掃描下方條碼進行諮詢<br />由於單日至多服務 3 位客人，回覆訊息速度較慢時，請多多包涵！</h4>
 <center><a href="http://line.me/ti/p/rp1aatBpg_">
 <img src="{{site.basurl}}/assets/images/line.jpg"/></a>
 <img src="{{site.basurl}}/assets/images/line-code.jpg"/>
