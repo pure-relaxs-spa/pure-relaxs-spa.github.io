@@ -17,7 +17,7 @@ image: assets/images/Precautions.jpg
     <ul>
         <li>本工作室為性別友善商店，但不接受年齡未滿 18 歲者之預約</li>
         <li>本工作室因考量服務過程中衛生安全問題，皮膚狀況不佳的客人請勿預約</li>
-		<li>本工作室因考量服務品質，<b><font color="#EEEE00">上班單日至多服務 3 至 5 位客人</font></b>，請見諒</li>
+		<li>本工作室因考量服務品質，<b><font color="#EEEE00">上班單日至多服務 1 至 3 位客人</font></b>，請見諒</li>
 		<li>承上點，考量師傅前往服務地點之行程安排，請至少於 1 小時前進行預約</li>
         <li>承上點，本工作室會根據服務地點額外酌收車馬費，請至 <a href="{{site.basurl}}/2018/01/02/location"><font color="#FF0088">服務地點</font></a> 頁面進行確認</li>
 		<li>本工作室所提供之 深層舒緩 ( B ) 與 魅力重現 ( D ) 課程中會有較多肢體接觸，請先諮詢後再進行消費</li>
@@ -50,8 +50,6 @@ image: assets/images/Precautions.jpg
                 	<li><a href="{{site.basurl}}/" class="button special fa fa-home">&nbsp;返回首頁</a></li>
                 	<li><a href="{{site.basurl}}/2018/01/09/service" class="button special fa fa-file-text">&nbsp;服務方案</a></li>
                 	<li><a href="{{site.basurl}}/2018/01/02/location" class="button special fa fa-location-arrow">&nbsp;服務地點&nbsp;</a></li>
-                	<li><a href="{{site.basurl}}/2018/01/01/comments" class="button special icon fa-commenting">給個評價</a></li>
-					<li><a href="{{site.basurl}}/2017/12/31/donate" class="button special icon fa-cc-visa">額外贊助</a></li>
                 </div>
              </center>
         </ul>
