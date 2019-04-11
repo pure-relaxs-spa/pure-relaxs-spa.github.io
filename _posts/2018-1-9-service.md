@@ -106,8 +106,6 @@ image: assets/images/serviceproduct.jpg
                 	<li><a href="{{site.basurl}}/" class="button special fa fa-home">&nbsp;返回首頁</a></li>
                 	<li><a href="{{site.basurl}}/2018/01/08/precautions" class="button special fa fa-exclamation-triangle">&nbsp;注意事項</a></li>
                 	<li><a href="{{site.basurl}}/2018/01/02/location" class="button special fa fa-location-arrow">&nbsp;服務地點&nbsp;</a></li>
-                	<li><a href="{{site.basurl}}/2018/01/01/comments" class="button special icon fa-commenting">給個評價</a></li>
-					<li><a href="{{site.basurl}}/2017/12/31/donate" class="button special icon fa-cc-visa">額外贊助</a></li>
                 </div>
              </center>
         </ul>
